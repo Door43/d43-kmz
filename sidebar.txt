@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kmz:home|Door43 (kmz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kmz|d43-kmz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kmz/archive/master.zip|d43-kmz.zip]]
+
+**Recent Changes**
+{{changes>ns = kmz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kmz|Ethnologue data]]
+
